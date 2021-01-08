@@ -35,3 +35,14 @@ var str = "Hello, playground"
 //value
 1 / 2
 //done now because demimal remainder left is 0 0 cant be divided by 2 into a new number.
+
+
+//now we pick a 3 digit number and do this code again.(510)
+
+let binary = <#value#>
+
+
+510 % 2
+510 / 2
+
+
