@@ -1,100 +1,22 @@
 import Cocoa
 
-var str = "Hello, playground"
+//data types
 
-//find the digits that represent 27 in binary this is; 11011 in base 2
+//Q. whta is the UInt8 data type
 
-//use the remainder operator to get the first binary digit
-//The remainder operator is the % sign
-27 % 2
+// A. It is an unassigned integer storing 8 bits
 
-//find the decimla value left to convert
-// division operator is/
-27 / 2
+UInt8.max
+UInt8.min
 
-//get next binary digit
-13 % 2
-//Get vaue left to convert
-13 / 2
+//we know in binary
 
-//get next binary digit
-6 % 2
-
-//value left
-6 / 2
-
-//next digit
-3 % 2
-
-//value left
-3 / 2
-
-//next
-1 % 2
-
-//value
-1 / 2
-//done now because demimal remainder left is 0 0 cant be divided by 2 into a new number.
-
-
-//now we pick a 3 digit number and do this code again.(510)
-
-//Use the remainder operator to get the first binary digit
-510 % 2
-
-//find the decimla value left to convert
-// division operator is/
-510 / 2
-
-//get next binary digit
-255 % 2
-//Get vaue left to convert
-255 / 2
-
-//get next binary digit
-127 % 2
-
-//value left
-127 / 2
-
-//next digit
-63 % 2
-
-//value left
-63 / 2
-
-//next
-31 % 2
-
-//value
-31 / 2
-
-//next
-15 % 2
-
-//value
-15 / 2
-
-//next
-7 % 2
-
-//value
-7 / 2
-
-//next
-3 % 2
-
-//value
-3 / 2
-
-//next
-1 % 2
-
-//value
-1 / 2
-
-//done now because demimal remainder left is 0 0 cant be divided by 2 into a new number.
-//Therefore the Binary Value is 111111110
-
-
+// ... the first digit counts for 2^0 or 1
+// ... the second digit is 2^1 or 2
+// ... the third digit is 2^2 or 4
+// ... the forth digit is 2^3 or 8
+// ... the fifth digit is 2^4 or 16
+// ... the sixth digit is 2^5 or 32
+// ... the seventh digit is 2^6 or 64
+// ... the eigth and final digit is 2^7 or 128 
 
