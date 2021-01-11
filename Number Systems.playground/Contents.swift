@@ -9,7 +9,7 @@ var str = "Hello, playground"
 27 % 2
 
 //find the decimla value left to convert
-//findthe division operator is/
+// division operator is/
 27 / 2
 
 //get next binary digit
@@ -39,10 +39,62 @@ var str = "Hello, playground"
 
 //now we pick a 3 digit number and do this code again.(510)
 
-let binary = <#value#>
-
-
+//Use the remainder operator to get the first binary digit
 510 % 2
+
+//find the decimla value left to convert
+// division operator is/
 510 / 2
+
+//get next binary digit
+255 % 2
+//Get vaue left to convert
+255 / 2
+
+//get next binary digit
+127 % 2
+
+//value left
+127 / 2
+
+//next digit
+63 % 2
+
+//value left
+63 / 2
+
+//next
+31 % 2
+
+//value
+31 / 2
+
+//next
+15 % 2
+
+//value
+15 / 2
+
+//next
+7 % 2
+
+//value
+7 / 2
+
+//next
+3 % 2
+
+//value
+3 / 2
+
+//next
+1 % 2
+
+//value
+1 / 2
+
+//done now because demimal remainder left is 0 0 cant be divided by 2 into a new number.
+//Therefore the Binary Value is 111111110
+
 
 
