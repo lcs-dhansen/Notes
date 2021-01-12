@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0F0B193E25AE412D0006105E /* Number Systems.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number Systems.playground"; sourceTree = "<group>"; };
+		0F0B194025AE41DD0006105E /* Number Systems.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Number Systems.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0FA00E9A25A8C9DE0099E252 /* Notes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Notes; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FA00E9D25A8C9DE0099E252 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		0FA00EA425A8CA2F0099E252 /* Data Types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Data Types.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -43,7 +43,7 @@
 		0FA00E9125A8C9DE0099E252 = {
 			isa = PBXGroup;
 			children = (
-				0F0B193E25AE412D0006105E /* Number Systems.playground */,
+				0F0B194025AE41DD0006105E /* Number Systems.playground */,
 				0FA00EA425A8CA2F0099E252 /* Data Types.playground */,
 				0FA00E9C25A8C9DE0099E252 /* Notes */,
 				0FA00E9B25A8C9DE0099E252 /* Products */,
